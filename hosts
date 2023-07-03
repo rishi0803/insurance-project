@@ -1,0 +1,6 @@
+[webserver]
+3.129.44.230
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_ssh_user=ubuntu
